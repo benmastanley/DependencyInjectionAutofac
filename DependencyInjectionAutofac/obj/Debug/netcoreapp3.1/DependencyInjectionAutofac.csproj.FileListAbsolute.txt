@@ -1,0 +1,16 @@
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.csprojAssemblyReference.cache
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.AssemblyInfoInputs.cache
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.AssemblyInfo.cs
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.csproj.CoreCompileInputs.cache
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.exe
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.deps.json
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.runtimeconfig.json
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.runtimeconfig.dev.json
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.dll
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\DependencyInjectionAutofac.pdb
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.csproj.CopyComplete
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.dll
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.pdb
+C:\Users\benst\OneDrive\Documents\GitHub\DependencyInjectionAutofac\DependencyInjectionAutofac\obj\Debug\netcoreapp3.1\DependencyInjectionAutofac.genruntimeconfig.cache

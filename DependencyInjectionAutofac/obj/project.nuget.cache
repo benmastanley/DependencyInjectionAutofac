@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvcllvpyCaFhiCRhGCKZKIJsW9N30NtBO2ttEQ51H9qB18sHCnVs5tzM75hDr8RFfR0ev6a4Fnrz6IOOnh/EAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benst\\OneDrive\\Documents\\GitHub\\DependencyInjectionAutofac\\DependencyInjectionAutofac\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benst\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\benst\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
